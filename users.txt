@@ -1,0 +1,11 @@
+Admin,admin,12345
+Dean,poorva,12345
+Teacher,jarret,12345,PD,msci.2022:webdev
+Teacher,payaswini,12345,PD
+Teacher,preeti,12345,Teacher,aasf:ssfa,msci.2022:c++
+Teacher,ramrao,12345,PD
+Teacher,s.baskar,12345,PD
+Teacher,sailee,12345,Teacher
+Teacher,sangeeta,12345,Teacher
+Teacher,suraj,12345,PD
+Teacher,swapnil,12345,Teacher

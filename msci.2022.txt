@@ -1,0 +1,8 @@
+adriella,12345,sem1:python:32/100,sem5:webdev:55/100,sem5:c++:143/150
+aashu,12345,sem1:python:45/100,sem5:webdev:76/100,sem5:c++:111/150
+shivani,12345,sem1:python:57/100,sem5:webdev:37/100,sem5:c++:134/150
+yasin,12345,sem1:python:58/100,sem5:webdev:58/100,sem5:c++:45/150
+shatru,12345,sem1:python:86/100,sem5:webdev:86/100,sem5:c++:113/150
+deep,12345,sem1:python:79/100,sem5:webdev:74/100,sem5:c++:52/150
+om,12345,sem1:python:58/100,sem5:webdev:48/100,sem5:c++:67/150
+kaushik,12345,sem1:python:87/100,sem5:webdev:58/100,sem5:c++:133/150
